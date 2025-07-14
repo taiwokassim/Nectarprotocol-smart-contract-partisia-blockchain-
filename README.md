@@ -3,7 +3,7 @@
 
 {
   "name": "Nectar Token",
-  "symbol": "NECT",
+  "symbol": "NCTR",
   "decimals": 6,
   "interfaces": ["MPC20"],
   "version": "1.0.0",
